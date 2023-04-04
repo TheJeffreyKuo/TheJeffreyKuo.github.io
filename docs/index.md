@@ -2,10 +2,12 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+title: Home
+titleTemplate: Junior Jellies
+
 hero:
   name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  tagline: Presented by FTC Team #4654 Jellyfish
   actions:
     - theme: brand
       text: Get Started
