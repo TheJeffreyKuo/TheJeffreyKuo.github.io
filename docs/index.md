@@ -3,11 +3,10 @@
 layout: home
 
 title: Home
-titleTemplate: Junior Jellies
 
 hero:
-  name: "My Awesome Project"
-  tagline: Presented by FTC Team #4654 Jellyfish
+  name: "Junior Jellies"
+  tagline: Presented by FTC Team 4654 Jellyfish
   actions:
     - theme: brand
       text: Get Started
