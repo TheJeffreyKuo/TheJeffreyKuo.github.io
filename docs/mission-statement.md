@@ -4,7 +4,7 @@ Over the years, our team has flourished by organizing and facilitating Junior Je
 
 <div class="tip custom-block" style="padding-top: 8px">
 
-Find out more information about [FIRST](./getting-started).
+Find out more information about [FIRST](https://www.firstinspires.org/robotics/ftc).
 
 </div>
 
@@ -28,7 +28,7 @@ Overall, Junior Jellies Java is an excellent opportunity for middle school stude
 
 - **Junior Jellies Robotics**
 
-Junior Jellies Robotics was our team’s first Junior Jellies program. The curriculum was modeled after  FLL (FIRST LEGO League) using LEGO Robotics, offering a challenge similar to those issued in FLL and allowing Junior Jellies to work on their robot over the course of seven weeks. On the final day of the program, students competed with their robots, vying for awards in various categories that closely mirrored those of FLL competitions.
+Junior Jellies Robotics was our team’s first Junior Jellies program. The curriculum was modeled after  [FLL (FIRST LEGO League)](https://www.firstinspires.org/robotics/fll) using LEGO Robotics, offering a challenge similar to those issued in FLL and allowing Junior Jellies to work on their robot over the course of seven weeks. On the final day of the program, students competed with their robots, vying for awards in various categories that closely mirrored those of FLL competitions.
 
 Junior Jellies Robotics provided an excellent opportunity for students to develop their knowledge of basic robotics concepts, while also learning essential skills such as critical thinking, problem-solving, and teamwork. The program also emphasized the importance of forming alliances with other teams, with students working as allies in one match and as opponents in another.
 
