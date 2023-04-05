@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Junior Jellies",
   description: "Presented by FTC Team #4654 Jellyfish",
+  base: '/juniorjellies/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: nav(),
@@ -16,7 +17,8 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'Guide', link: '/java/getting-started', activeMatch: '/java/' },
+    { text: 'Java', link: '/java/getting-started', activeMatch: '/java/' },
+    { text: 'Mission Statement', link: '/mission-statement', activeMatch: '/mission-statement' },
   ]
 }
 
